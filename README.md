@@ -10,7 +10,6 @@
 
 - 🔭 Currently working with automation and data analysis
 - 🌱 I’m currently learning ML and information security
-- 😄 Pronouns: she/her
 
 ---
 
