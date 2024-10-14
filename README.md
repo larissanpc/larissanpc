@@ -36,11 +36,12 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=larissanpc&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Larissa's GitHub status" />
-</p>
-<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larissanpc&theme=algolia" alt="larissanpc" />
 </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=larissanpc&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Larissa's GitHub status" />
+</p>
+
 
 ---
 
