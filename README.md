@@ -8,8 +8,9 @@
 
 ![](https://komarev.com/ghpvc/?username=larissanpc&color=brightgreen)
 
-- 🔭 Currently working with automation and data analysis
-- 🌱 I’m currently learning ML and information security
+- 👩‍💻 Data Analyst
+- 🔭 Currently working with automation, ML and data analysis using Python
+- 🌍 Portuguese | English | Spanish
 
 ---
 
