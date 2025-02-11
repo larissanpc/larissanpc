@@ -30,29 +30,11 @@
 ![Figma](https://img.shields.io/badge/Figma-f7f7f7?style=flastic&logo=Figma&logoColor=F24E1E)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E05924?style=flat-square&logo=ubuntu&logoColor=black)
 
----
 
-### My Github Stats:
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larissanpc&theme=algolia" alt="larissanpc" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=larissanpc&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Larissa's GitHub status" />
-</p>
-
-
----
 
 ### Top Usage Languages:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissanpc&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
-
----
-
-### StarDev Ranking
-
-<a href="https://stardev.io/developers/larissanpc"><img alt="Check out larissanpc's profile on stardev.io" src="https://stardev.io/developers/larissanpc/badge/languages/locality.svg" /></a>
 
 ---
 
